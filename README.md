@@ -2,8 +2,6 @@
 
 An aspiring software developer currently majoring in Computer Science at [**ubc**](https://github.com/ubc). I like making command-line programs and writing [non-graphical] library code.
 
-<a href="https://i.ibb.co/W5Gc589/nextonesfaster.gif"><img src="https://i.ibb.co/W5Gc589/nextonesfaster.gif" alt="nextonesfaster-gif"></a>
-
 You can reach me via email at **sujalbolia@gmail.com** or on Discord at **nextonesfaster#4875**.
 
 ---
